@@ -1,0 +1,13 @@
+Caroline's Bäckerei
+pwd
+git add backery-notes.txt
+git add backery-notes.txt
+git commit -m "Fix two typos in Opening hours"
+git commit -a -m Fix two typos in Opening hours
+git status
+
+q!
+(base) carolinemusyoki@Carolines-MacBook-Air startupistan-practice % git status
+Try sourdough recipe
+Edited in the Browser
+Saturday: cardamom buns
